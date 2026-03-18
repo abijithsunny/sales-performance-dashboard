@@ -1,0 +1,1001 @@
+Order ID,Order Date,Customer Name,Region,Category,Product Name,Sales,Quantity,Profit
+ORD00001,2023-09-16,Customer_188,West,Furniture,Table,405.81,6,116.74
+ORD00002,2022-02-28,Customer_145,North,Technology,Printer,745.39,9,148.83
+ORD00003,2024-04-08,Customer_99,West,Office Supplies,Paper,198.22,7,17.64
+ORD00004,2024-07-16,Customer_180,North,Furniture,Desk,105.18,3,28.04
+ORD00005,2023-01-05,Customer_52,East,Office Supplies,Pen,621.06,8,140.99
+ORD00006,2024-03-03,Customer_115,West,Office Supplies,Paper,69.56,7,20.34
+ORD00007,2023-01-11,Customer_112,North,Office Supplies,Paper,840.82,3,86.68
+ORD00008,2023-10-26,Customer_148,East,Technology,Laptop,222.73,9,21.35
+ORD00009,2024-09-05,Customer_72,North,Office Supplies,Binder,339.03,2,61.43
+ORD00010,2023-08-31,Customer_192,West,Furniture,Bookcase,460.35,1,56.53
+ORD00011,2024-08-23,Customer_25,South,Furniture,Desk,631.26,4,53.58
+ORD00012,2023-11-16,Customer_100,East,Office Supplies,Pen,327.54,2,46.38
+ORD00013,2024-05-29,Customer_103,East,Office Supplies,Pen,483.27,9,119.03
+ORD00014,2022-08-20,Customer_71,West,Furniture,Bookcase,239.69,8,42.8
+ORD00015,2022-10-31,Customer_178,South,Technology,Printer,612.79,4,37.76
+ORD00016,2024-05-26,Customer_81,East,Technology,Printer,627.17,2,58.1
+ORD00017,2022-10-05,Customer_59,South,Furniture,Chair,111.8,8,32.11
+ORD00018,2022-05-15,Customer_188,East,Technology,Laptop,967.35,1,243.87
+ORD00019,2024-04-07,Customer_139,South,Office Supplies,Stapler,339.38,2,25.26
+ORD00020,2023-08-30,Customer_179,East,Furniture,Desk,700.02,6,112.03
+ORD00021,2022-09-25,Customer_88,West,Technology,Monitor,165.94,8,28.84
+ORD00022,2024-08-20,Customer_109,North,Office Supplies,Stapler,82.67,2,22.93
+ORD00023,2024-06-11,Customer_30,South,Technology,Phone,295.84,7,63.79
+ORD00024,2024-04-07,Customer_98,West,Furniture,Desk,346.13,3,62.31
+ORD00025,2023-10-13,Customer_69,North,Furniture,Bookcase,569.37,9,54.78
+ORD00026,2023-08-13,Customer_178,South,Technology,Laptop,971.11,9,236.74
+ORD00027,2023-09-21,Customer_194,North,Office Supplies,Stapler,942.52,10,257.97
+ORD00028,2022-07-16,Customer_160,South,Furniture,Bookcase,618.0,6,173.33
+ORD00029,2023-02-03,Customer_134,North,Technology,Laptop,134.07,3,13.27
+ORD00030,2022-09-21,Customer_14,West,Technology,Monitor,92.97,2,12.21
+ORD00031,2024-03-13,Customer_15,West,Technology,Monitor,419.24,6,49.4
+ORD00032,2022-02-10,Customer_51,South,Technology,Monitor,837.3,8,116.54
+ORD00033,2022-06-09,Customer_35,South,Technology,Printer,316.89,4,58.84
+ORD00034,2022-01-03,Customer_198,East,Office Supplies,Stapler,183.88,9,46.07
+ORD00035,2024-09-08,Customer_50,North,Office Supplies,Pen,120.82,3,35.85
+ORD00036,2022-03-05,Customer_141,North,Furniture,Table,783.63,6,78.11
+ORD00037,2023-08-16,Customer_115,East,Office Supplies,Stapler,55.25,1,14.03
+ORD00038,2024-08-11,Customer_127,West,Technology,Printer,721.51,10,167.57
+ORD00039,2023-12-18,Customer_81,North,Technology,Monitor,782.71,9,53.62
+ORD00040,2024-06-13,Customer_93,South,Furniture,Chair,390.54,4,30.84
+ORD00041,2023-04-16,Customer_153,South,Furniture,Table,869.95,9,179.06
+ORD00042,2024-01-05,Customer_5,East,Office Supplies,Paper,364.35,1,24.01
+ORD00043,2024-05-04,Customer_186,West,Office Supplies,Binder,345.43,3,45.35
+ORD00044,2023-11-23,Customer_64,North,Office Supplies,Paper,743.13,5,155.6
+ORD00045,2023-04-04,Customer_163,North,Office Supplies,Pen,892.85,2,150.05
+ORD00046,2024-04-07,Customer_155,South,Furniture,Bookcase,163.61,3,37.35
+ORD00047,2024-01-21,Customer_80,East,Technology,Monitor,772.75,10,147.07
+ORD00048,2023-12-16,Customer_127,South,Technology,Monitor,782.42,8,135.71
+ORD00049,2022-06-07,Customer_182,South,Furniture,Bookcase,546.6,9,85.75
+ORD00050,2023-06-15,Customer_178,North,Technology,Phone,74.15,1,5.71
+ORD00051,2022-10-16,Customer_151,East,Office Supplies,Stapler,79.86,6,16.7
+ORD00052,2023-02-19,Customer_54,East,Office Supplies,Stapler,348.64,2,61.76
+ORD00053,2024-01-23,Customer_166,West,Technology,Phone,912.19,2,102.46
+ORD00054,2024-03-03,Customer_79,South,Furniture,Table,439.86,8,105.08
+ORD00055,2022-12-19,Customer_84,West,Office Supplies,Stapler,267.36,4,18.51
+ORD00056,2022-10-29,Customer_142,East,Technology,Printer,325.26,1,29.37
+ORD00057,2023-12-18,Customer_88,West,Office Supplies,Stapler,933.21,1,235.2
+ORD00058,2024-08-17,Customer_26,West,Furniture,Desk,651.73,9,174.58
+ORD00059,2022-06-12,Customer_78,South,Furniture,Table,813.49,3,78.62
+ORD00060,2022-06-19,Customer_28,East,Furniture,Bookcase,897.93,10,165.97
+ORD00061,2022-07-17,Customer_124,West,Furniture,Table,817.07,1,223.9
+ORD00062,2024-01-22,Customer_2,East,Office Supplies,Paper,352.1,2,27.29
+ORD00063,2023-04-20,Customer_20,West,Office Supplies,Stapler,266.54,4,41.79
+ORD00064,2024-05-03,Customer_109,North,Furniture,Bookcase,827.11,8,219.34
+ORD00065,2023-05-14,Customer_54,South,Office Supplies,Pen,56.6,8,10.06
+ORD00066,2022-11-07,Customer_192,North,Office Supplies,Paper,446.54,5,47.12
+ORD00067,2023-12-08,Customer_141,West,Technology,Phone,163.87,9,22.02
+ORD00068,2024-04-05,Customer_28,South,Office Supplies,Pen,945.76,9,123.71
+ORD00069,2024-09-08,Customer_151,West,Technology,Monitor,542.85,3,122.55
+ORD00070,2024-01-05,Customer_23,North,Furniture,Desk,395.45,8,115.85
+ORD00071,2022-08-02,Customer_16,South,Office Supplies,Stapler,964.32,3,108.92
+ORD00072,2023-11-16,Customer_198,South,Technology,Laptop,522.39,3,65.41
+ORD00073,2023-06-24,Customer_48,West,Furniture,Table,320.6,8,18.99
+ORD00074,2023-05-28,Customer_109,North,Furniture,Table,629.09,2,110.51
+ORD00075,2024-01-17,Customer_54,East,Furniture,Table,98.9,3,11.83
+ORD00076,2022-03-14,Customer_78,East,Office Supplies,Binder,912.85,9,100.31
+ORD00077,2023-11-14,Customer_99,North,Furniture,Chair,187.65,2,32.34
+ORD00078,2024-02-29,Customer_149,East,Furniture,Chair,986.37,8,109.01
+ORD00079,2024-07-15,Customer_70,East,Technology,Monitor,688.53,5,165.53
+ORD00080,2023-04-09,Customer_87,West,Technology,Phone,275.76,3,63.99
+ORD00081,2022-05-12,Customer_64,North,Technology,Laptop,399.39,4,83.1
+ORD00082,2024-02-17,Customer_150,North,Technology,Laptop,651.85,9,119.9
+ORD00083,2024-07-10,Customer_147,West,Furniture,Bookcase,135.78,9,35.14
+ORD00084,2022-02-14,Customer_131,West,Furniture,Chair,354.74,9,34.28
+ORD00085,2023-03-06,Customer_170,North,Technology,Phone,88.74,7,17.55
+ORD00086,2024-01-23,Customer_149,North,Technology,Laptop,693.69,1,37.56
+ORD00087,2024-07-09,Customer_184,East,Technology,Laptop,536.49,2,57.2
+ORD00088,2022-09-02,Customer_78,East,Technology,Printer,662.91,9,62.04
+ORD00089,2024-06-11,Customer_3,West,Office Supplies,Stapler,706.39,5,103.62
+ORD00090,2023-11-16,Customer_73,East,Technology,Monitor,939.89,5,79.31
+ORD00091,2023-01-29,Customer_43,East,Office Supplies,Stapler,374.01,10,29.31
+ORD00092,2023-10-15,Customer_16,East,Office Supplies,Stapler,928.46,8,250.07
+ORD00093,2022-10-23,Customer_165,East,Office Supplies,Pen,295.04,1,63.43
+ORD00094,2023-10-07,Customer_166,East,Furniture,Table,826.36,8,156.02
+ORD00095,2024-04-28,Customer_112,North,Furniture,Chair,553.17,6,61.1
+ORD00096,2023-05-24,Customer_170,East,Furniture,Bookcase,138.45,5,37.98
+ORD00097,2024-05-20,Customer_120,East,Furniture,Chair,905.4,5,188.57
+ORD00098,2023-10-04,Customer_124,East,Furniture,Table,372.08,1,51.09
+ORD00099,2024-07-11,Customer_119,South,Technology,Printer,739.66,1,202.87
+ORD00100,2022-03-27,Customer_69,West,Office Supplies,Pen,892.73,8,218.69
+ORD00101,2024-02-12,Customer_132,South,Technology,Laptop,659.93,3,46.88
+ORD00102,2023-10-08,Customer_34,West,Furniture,Table,203.55,7,55.9
+ORD00103,2022-04-10,Customer_25,West,Furniture,Bookcase,626.11,1,32.75
+ORD00104,2023-03-15,Customer_132,North,Technology,Monitor,146.4,4,31.6
+ORD00105,2023-07-16,Customer_19,East,Office Supplies,Paper,54.81,2,4.94
+ORD00106,2023-06-28,Customer_101,West,Office Supplies,Binder,571.3,6,127.38
+ORD00107,2024-06-23,Customer_170,South,Technology,Laptop,669.36,6,71.0
+ORD00108,2023-11-17,Customer_41,East,Furniture,Desk,726.57,3,79.42
+ORD00109,2024-02-28,Customer_167,North,Office Supplies,Paper,359.13,10,84.98
+ORD00110,2024-04-20,Customer_52,North,Furniture,Table,667.15,5,175.0
+ORD00111,2023-08-11,Customer_102,West,Office Supplies,Paper,674.73,10,129.6
+ORD00112,2024-09-16,Customer_13,East,Office Supplies,Pen,138.99,8,19.73
+ORD00113,2022-12-12,Customer_197,South,Furniture,Table,301.94,10,33.51
+ORD00114,2023-04-10,Customer_185,West,Furniture,Table,974.36,9,144.47
+ORD00115,2023-03-24,Customer_63,South,Furniture,Bookcase,897.44,3,186.47
+ORD00116,2022-12-22,Customer_164,East,Furniture,Desk,805.07,3,141.42
+ORD00117,2022-12-05,Customer_124,North,Furniture,Desk,598.06,8,103.54
+ORD00118,2024-02-28,Customer_46,South,Furniture,Table,235.48,7,54.3
+ORD00119,2022-06-27,Customer_55,South,Technology,Laptop,316.73,2,17.76
+ORD00120,2023-07-05,Customer_46,South,Office Supplies,Binder,663.2,6,62.52
+ORD00121,2023-09-10,Customer_150,North,Technology,Phone,943.44,8,272.17
+ORD00122,2024-06-29,Customer_41,South,Furniture,Bookcase,919.12,2,131.01
+ORD00123,2024-05-06,Customer_121,North,Office Supplies,Stapler,64.68,7,18.24
+ORD00124,2023-07-19,Customer_38,West,Office Supplies,Stapler,456.77,3,133.22
+ORD00125,2024-02-19,Customer_163,West,Office Supplies,Paper,965.44,2,254.15
+ORD00126,2022-04-25,Customer_104,South,Office Supplies,Pen,329.73,4,48.23
+ORD00127,2024-01-02,Customer_66,North,Furniture,Chair,858.58,3,110.95
+ORD00128,2024-05-24,Customer_161,North,Office Supplies,Pen,211.02,8,39.93
+ORD00129,2022-01-05,Customer_123,West,Technology,Monitor,939.35,8,210.42
+ORD00130,2023-08-06,Customer_130,West,Office Supplies,Pen,591.56,8,43.95
+ORD00131,2024-04-03,Customer_42,East,Technology,Monitor,634.26,6,188.7
+ORD00132,2022-11-12,Customer_138,South,Technology,Monitor,183.08,9,32.88
+ORD00133,2023-03-29,Customer_79,South,Technology,Laptop,883.5,6,207.79
+ORD00134,2023-09-23,Customer_142,North,Technology,Monitor,712.16,4,160.68
+ORD00135,2024-05-17,Customer_25,North,Technology,Laptop,391.52,1,48.31
+ORD00136,2023-03-24,Customer_196,South,Technology,Printer,818.89,4,206.79
+ORD00137,2023-04-04,Customer_26,West,Technology,Phone,873.72,7,243.17
+ORD00138,2023-11-25,Customer_26,South,Office Supplies,Pen,535.78,8,93.96
+ORD00139,2023-01-02,Customer_184,West,Office Supplies,Pen,808.38,7,171.77
+ORD00140,2024-07-02,Customer_132,East,Office Supplies,Pen,716.87,1,178.46
+ORD00141,2022-04-22,Customer_49,East,Office Supplies,Paper,895.51,5,120.45
+ORD00142,2024-07-03,Customer_152,East,Technology,Printer,406.8,1,29.9
+ORD00143,2023-07-31,Customer_44,West,Technology,Phone,599.37,10,35.35
+ORD00144,2022-04-02,Customer_159,East,Furniture,Chair,492.32,10,91.4
+ORD00145,2023-11-22,Customer_173,West,Office Supplies,Paper,322.21,9,63.7
+ORD00146,2023-09-26,Customer_70,South,Furniture,Desk,78.98,4,4.69
+ORD00147,2022-02-16,Customer_151,East,Technology,Monitor,831.47,1,116.45
+ORD00148,2023-12-22,Customer_193,South,Technology,Monitor,170.71,9,30.82
+ORD00149,2022-05-25,Customer_177,East,Technology,Printer,781.49,4,81.24
+ORD00150,2023-02-09,Customer_126,East,Furniture,Desk,641.75,1,45.78
+ORD00151,2023-10-12,Customer_34,North,Office Supplies,Binder,99.1,3,18.12
+ORD00152,2023-06-05,Customer_159,North,Technology,Phone,563.6,9,117.99
+ORD00153,2023-03-30,Customer_6,South,Office Supplies,Stapler,739.79,8,217.47
+ORD00154,2023-05-21,Customer_147,East,Technology,Laptop,540.49,10,70.66
+ORD00155,2023-08-04,Customer_16,North,Technology,Phone,805.43,5,94.81
+ORD00156,2022-07-07,Customer_100,North,Furniture,Bookcase,467.02,6,32.51
+ORD00157,2024-08-28,Customer_11,West,Technology,Phone,74.08,1,21.53
+ORD00158,2022-10-13,Customer_190,West,Technology,Phone,844.18,6,189.09
+ORD00159,2024-06-14,Customer_142,South,Office Supplies,Binder,438.51,2,40.92
+ORD00160,2022-08-05,Customer_22,West,Technology,Laptop,198.62,1,22.36
+ORD00161,2024-08-10,Customer_179,East,Office Supplies,Binder,571.77,9,130.73
+ORD00162,2023-05-07,Customer_80,South,Furniture,Bookcase,677.19,7,81.25
+ORD00163,2022-08-06,Customer_191,South,Technology,Laptop,957.12,10,224.42
+ORD00164,2022-03-13,Customer_117,North,Office Supplies,Pen,576.64,8,117.02
+ORD00165,2024-03-24,Customer_26,North,Technology,Laptop,448.62,5,50.22
+ORD00166,2023-03-13,Customer_162,North,Furniture,Chair,388.17,4,92.95
+ORD00167,2022-05-17,Customer_179,West,Technology,Monitor,63.67,10,5.03
+ORD00168,2022-10-03,Customer_132,East,Technology,Printer,93.7,4,5.64
+ORD00169,2022-06-21,Customer_31,South,Furniture,Chair,862.69,7,194.89
+ORD00170,2024-03-28,Customer_47,South,Office Supplies,Pen,500.47,5,37.26
+ORD00171,2022-09-14,Customer_2,West,Office Supplies,Pen,517.04,6,87.05
+ORD00172,2024-05-31,Customer_18,South,Technology,Monitor,214.54,6,34.0
+ORD00173,2024-04-11,Customer_33,South,Office Supplies,Stapler,428.58,3,87.41
+ORD00174,2024-09-11,Customer_158,North,Furniture,Desk,653.34,3,40.07
+ORD00175,2023-07-03,Customer_192,South,Office Supplies,Pen,405.88,5,83.8
+ORD00176,2023-04-26,Customer_10,South,Technology,Monitor,527.98,2,139.45
+ORD00177,2022-03-12,Customer_15,North,Furniture,Desk,675.76,7,61.31
+ORD00178,2022-01-19,Customer_75,North,Technology,Laptop,117.04,1,24.65
+ORD00179,2023-06-28,Customer_192,North,Office Supplies,Stapler,75.19,2,14.77
+ORD00180,2024-08-20,Customer_88,East,Furniture,Desk,943.22,6,182.86
+ORD00181,2023-04-24,Customer_78,North,Furniture,Desk,418.76,10,88.28
+ORD00182,2023-07-19,Customer_35,West,Furniture,Chair,485.34,10,90.47
+ORD00183,2023-09-15,Customer_27,West,Office Supplies,Paper,944.39,1,138.38
+ORD00184,2023-07-18,Customer_91,West,Furniture,Desk,963.13,10,266.15
+ORD00185,2022-02-16,Customer_25,North,Technology,Phone,236.0,7,15.89
+ORD00186,2024-01-19,Customer_150,West,Furniture,Bookcase,145.74,1,7.95
+ORD00187,2022-10-27,Customer_93,North,Office Supplies,Paper,139.72,4,30.84
+ORD00188,2023-02-12,Customer_65,West,Office Supplies,Stapler,117.63,2,15.26
+ORD00189,2023-11-23,Customer_172,North,Technology,Monitor,852.63,1,47.59
+ORD00190,2024-06-19,Customer_197,South,Furniture,Table,823.75,4,99.23
+ORD00191,2022-06-17,Customer_175,West,Office Supplies,Binder,162.26,2,36.38
+ORD00192,2023-02-10,Customer_58,North,Technology,Phone,647.5,9,174.42
+ORD00193,2024-08-14,Customer_10,East,Furniture,Table,748.32,3,187.73
+ORD00194,2024-01-07,Customer_84,West,Office Supplies,Stapler,317.93,1,30.0
+ORD00195,2024-08-30,Customer_130,North,Office Supplies,Pen,763.08,2,192.07
+ORD00196,2023-01-15,Customer_129,East,Furniture,Table,990.98,3,151.77
+ORD00197,2024-01-31,Customer_184,South,Technology,Monitor,403.42,2,98.48
+ORD00198,2022-07-21,Customer_1,North,Furniture,Table,373.76,2,105.66
+ORD00199,2022-02-25,Customer_196,North,Technology,Laptop,865.49,3,136.1
+ORD00200,2023-05-14,Customer_189,East,Office Supplies,Binder,763.33,8,182.16
+ORD00201,2022-03-12,Customer_94,North,Technology,Printer,147.97,10,40.79
+ORD00202,2022-02-24,Customer_98,North,Office Supplies,Stapler,529.99,3,136.0
+ORD00203,2023-09-10,Customer_1,South,Technology,Printer,354.05,7,96.97
+ORD00204,2022-12-18,Customer_195,East,Technology,Phone,419.74,7,22.12
+ORD00205,2024-06-17,Customer_157,East,Technology,Monitor,910.11,10,66.28
+ORD00206,2024-02-05,Customer_68,South,Office Supplies,Pen,353.35,5,101.59
+ORD00207,2023-11-10,Customer_196,West,Technology,Printer,953.08,2,184.29
+ORD00208,2024-04-28,Customer_163,East,Furniture,Chair,650.25,2,105.41
+ORD00209,2022-02-09,Customer_92,North,Furniture,Table,328.55,2,43.42
+ORD00210,2023-11-20,Customer_67,West,Furniture,Bookcase,688.89,9,164.02
+ORD00211,2022-11-03,Customer_25,West,Office Supplies,Binder,802.0,2,198.42
+ORD00212,2023-01-25,Customer_173,West,Technology,Monitor,136.65,7,23.72
+ORD00213,2024-09-02,Customer_176,South,Technology,Monitor,104.68,6,19.62
+ORD00214,2024-01-15,Customer_14,West,Furniture,Table,469.45,8,127.66
+ORD00215,2022-12-09,Customer_63,South,Furniture,Desk,383.37,7,30.39
+ORD00216,2023-07-20,Customer_36,East,Technology,Printer,185.84,8,44.67
+ORD00217,2022-04-13,Customer_130,East,Furniture,Table,637.31,1,47.98
+ORD00218,2024-06-10,Customer_144,South,Furniture,Chair,129.9,4,29.26
+ORD00219,2024-09-13,Customer_109,North,Furniture,Table,119.12,5,30.43
+ORD00220,2024-03-14,Customer_116,East,Office Supplies,Paper,720.93,9,50.71
+ORD00221,2022-12-20,Customer_168,South,Office Supplies,Paper,130.6,6,38.74
+ORD00222,2022-08-27,Customer_69,South,Furniture,Bookcase,405.56,2,57.86
+ORD00223,2022-12-30,Customer_35,East,Technology,Printer,822.16,4,235.81
+ORD00224,2023-04-04,Customer_89,South,Furniture,Bookcase,986.7,9,235.17
+ORD00225,2022-08-08,Customer_127,South,Furniture,Chair,407.45,9,28.88
+ORD00226,2022-10-14,Customer_97,East,Technology,Laptop,788.29,1,149.46
+ORD00227,2024-07-09,Customer_1,East,Technology,Laptop,453.01,10,125.3
+ORD00228,2022-05-05,Customer_99,East,Technology,Monitor,155.64,8,26.95
+ORD00229,2022-05-30,Customer_96,North,Technology,Laptop,60.79,3,10.16
+ORD00230,2023-02-03,Customer_146,East,Office Supplies,Pen,103.49,5,8.25
+ORD00231,2024-01-24,Customer_193,North,Office Supplies,Paper,161.65,7,34.32
+ORD00232,2024-02-10,Customer_111,North,Technology,Printer,758.74,1,148.59
+ORD00233,2022-10-03,Customer_46,West,Office Supplies,Binder,964.06,4,138.55
+ORD00234,2022-06-22,Customer_181,West,Office Supplies,Pen,321.43,7,85.87
+ORD00235,2023-01-04,Customer_134,South,Technology,Monitor,262.42,9,76.31
+ORD00236,2023-04-21,Customer_23,West,Furniture,Table,61.55,6,18.0
+ORD00237,2022-06-22,Customer_20,South,Technology,Phone,91.0,2,24.82
+ORD00238,2022-05-18,Customer_122,West,Furniture,Chair,551.32,10,164.43
+ORD00239,2024-01-02,Customer_116,East,Office Supplies,Stapler,120.11,9,22.64
+ORD00240,2024-02-18,Customer_102,West,Furniture,Bookcase,970.84,7,175.5
+ORD00241,2023-08-20,Customer_162,East,Furniture,Desk,647.93,3,145.1
+ORD00242,2022-09-25,Customer_161,West,Furniture,Bookcase,481.81,10,99.68
+ORD00243,2023-01-29,Customer_113,North,Furniture,Bookcase,605.1,5,166.58
+ORD00244,2024-01-04,Customer_170,North,Furniture,Desk,93.17,4,11.2
+ORD00245,2022-08-19,Customer_37,West,Furniture,Bookcase,952.89,2,259.73
+ORD00246,2022-08-08,Customer_109,South,Furniture,Table,482.87,3,99.0
+ORD00247,2023-06-28,Customer_21,West,Office Supplies,Stapler,313.51,2,30.42
+ORD00248,2024-03-23,Customer_199,West,Furniture,Desk,490.51,5,67.86
+ORD00249,2022-05-04,Customer_133,East,Office Supplies,Paper,604.47,6,41.97
+ORD00250,2024-05-13,Customer_82,West,Furniture,Desk,975.68,7,289.34
+ORD00251,2023-06-04,Customer_166,East,Technology,Monitor,713.25,6,131.26
+ORD00252,2022-12-06,Customer_28,South,Furniture,Table,344.05,7,87.2
+ORD00253,2022-05-02,Customer_163,South,Technology,Printer,700.49,8,63.5
+ORD00254,2023-07-27,Customer_142,South,Technology,Monitor,915.38,4,234.0
+ORD00255,2022-01-22,Customer_172,East,Furniture,Chair,952.31,8,220.39
+ORD00256,2022-11-08,Customer_111,South,Furniture,Table,632.74,7,97.8
+ORD00257,2022-01-06,Customer_47,West,Technology,Printer,936.09,1,249.48
+ORD00258,2022-08-10,Customer_93,South,Technology,Printer,92.96,10,5.26
+ORD00259,2024-05-22,Customer_99,East,Furniture,Table,407.64,3,102.99
+ORD00260,2022-02-22,Customer_46,East,Furniture,Desk,987.91,10,86.55
+ORD00261,2022-09-17,Customer_106,East,Office Supplies,Pen,614.42,6,89.23
+ORD00262,2024-08-09,Customer_91,East,Office Supplies,Stapler,971.42,8,253.08
+ORD00263,2022-05-04,Customer_199,West,Furniture,Table,846.41,7,141.5
+ORD00264,2022-12-28,Customer_132,East,Office Supplies,Pen,444.08,3,52.56
+ORD00265,2024-05-07,Customer_24,East,Furniture,Bookcase,103.56,5,27.57
+ORD00266,2023-07-06,Customer_78,East,Office Supplies,Pen,822.26,2,246.62
+ORD00267,2023-07-21,Customer_37,West,Office Supplies,Binder,996.8,4,188.25
+ORD00268,2023-02-19,Customer_29,North,Furniture,Bookcase,780.54,4,223.38
+ORD00269,2023-05-22,Customer_175,East,Technology,Printer,857.17,10,95.86
+ORD00270,2024-05-22,Customer_168,North,Technology,Printer,478.02,1,39.34
+ORD00271,2024-09-18,Customer_158,East,Office Supplies,Binder,956.35,6,192.75
+ORD00272,2023-10-14,Customer_117,South,Technology,Phone,267.21,9,58.23
+ORD00273,2022-09-26,Customer_49,West,Technology,Laptop,637.22,6,88.92
+ORD00274,2023-07-24,Customer_64,West,Office Supplies,Pen,157.88,5,34.4
+ORD00275,2022-03-27,Customer_181,West,Office Supplies,Binder,544.29,8,132.31
+ORD00276,2023-08-01,Customer_36,North,Furniture,Chair,544.16,6,143.14
+ORD00277,2022-08-15,Customer_192,South,Technology,Phone,574.31,6,109.25
+ORD00278,2023-03-16,Customer_136,North,Furniture,Bookcase,882.82,9,133.19
+ORD00279,2022-08-28,Customer_160,North,Technology,Printer,177.31,1,10.14
+ORD00280,2022-08-02,Customer_125,West,Technology,Printer,767.38,6,157.37
+ORD00281,2023-02-12,Customer_127,South,Technology,Printer,718.88,1,74.22
+ORD00282,2023-01-21,Customer_48,North,Furniture,Desk,179.55,7,9.63
+ORD00283,2022-12-29,Customer_192,North,Technology,Phone,383.06,3,75.65
+ORD00284,2024-02-27,Customer_115,South,Furniture,Table,422.63,2,67.35
+ORD00285,2022-12-24,Customer_13,North,Office Supplies,Binder,908.95,5,124.58
+ORD00286,2022-03-11,Customer_19,South,Technology,Laptop,538.29,5,132.37
+ORD00287,2022-11-19,Customer_38,West,Office Supplies,Pen,426.72,10,87.7
+ORD00288,2023-05-12,Customer_88,South,Technology,Monitor,869.25,10,249.81
+ORD00289,2022-02-21,Customer_147,East,Furniture,Bookcase,189.72,6,53.43
+ORD00290,2022-12-11,Customer_165,North,Technology,Laptop,517.51,5,59.29
+ORD00291,2024-06-09,Customer_86,West,Furniture,Desk,486.18,3,143.43
+ORD00292,2024-06-25,Customer_47,West,Furniture,Table,517.99,6,68.47
+ORD00293,2023-11-01,Customer_101,South,Office Supplies,Pen,651.73,3,71.71
+ORD00294,2022-06-04,Customer_93,West,Technology,Monitor,122.07,2,10.04
+ORD00295,2022-08-17,Customer_50,East,Furniture,Desk,171.64,1,15.1
+ORD00296,2023-10-08,Customer_22,West,Office Supplies,Paper,181.89,3,38.24
+ORD00297,2024-02-08,Customer_185,West,Office Supplies,Pen,222.79,6,30.39
+ORD00298,2022-03-08,Customer_34,South,Furniture,Desk,901.95,9,151.97
+ORD00299,2024-06-14,Customer_124,South,Furniture,Bookcase,684.18,9,63.68
+ORD00300,2024-06-03,Customer_4,North,Office Supplies,Pen,232.67,6,14.01
+ORD00301,2023-12-16,Customer_33,South,Office Supplies,Paper,210.49,9,25.18
+ORD00302,2024-03-20,Customer_116,West,Technology,Phone,218.16,3,15.75
+ORD00303,2023-04-07,Customer_141,North,Furniture,Desk,164.6,8,27.19
+ORD00304,2022-08-30,Customer_18,South,Furniture,Desk,246.02,5,34.71
+ORD00305,2023-10-05,Customer_55,South,Office Supplies,Binder,528.25,5,117.59
+ORD00306,2023-09-24,Customer_126,North,Technology,Printer,87.35,8,21.82
+ORD00307,2024-04-11,Customer_73,East,Furniture,Table,646.51,2,45.54
+ORD00308,2022-04-16,Customer_57,East,Furniture,Chair,879.9,7,246.56
+ORD00309,2022-01-22,Customer_176,East,Technology,Printer,108.02,2,12.88
+ORD00310,2022-12-12,Customer_25,North,Technology,Phone,815.89,9,193.42
+ORD00311,2024-02-15,Customer_150,West,Office Supplies,Binder,225.29,2,23.06
+ORD00312,2022-10-28,Customer_157,West,Furniture,Bookcase,401.95,8,68.79
+ORD00313,2022-01-21,Customer_127,South,Office Supplies,Pen,637.34,10,90.65
+ORD00314,2023-11-08,Customer_163,South,Office Supplies,Binder,489.41,1,115.93
+ORD00315,2023-05-03,Customer_44,North,Furniture,Chair,84.85,9,9.6
+ORD00316,2022-03-11,Customer_147,North,Office Supplies,Stapler,727.68,8,199.24
+ORD00317,2023-03-16,Customer_90,North,Office Supplies,Paper,536.09,2,98.12
+ORD00318,2024-01-28,Customer_180,East,Technology,Printer,151.81,7,24.57
+ORD00319,2024-03-04,Customer_31,South,Technology,Printer,555.99,7,61.5
+ORD00320,2023-08-20,Customer_165,South,Technology,Monitor,305.78,8,44.13
+ORD00321,2024-06-04,Customer_99,East,Furniture,Chair,69.07,1,9.02
+ORD00322,2024-02-11,Customer_71,North,Furniture,Desk,250.88,7,33.08
+ORD00323,2022-06-14,Customer_176,West,Technology,Monitor,163.77,5,44.65
+ORD00324,2022-06-25,Customer_130,West,Technology,Printer,613.91,5,134.92
+ORD00325,2022-04-17,Customer_70,West,Technology,Phone,799.71,6,139.64
+ORD00326,2023-09-02,Customer_72,East,Office Supplies,Binder,132.57,2,24.43
+ORD00327,2023-10-07,Customer_64,South,Office Supplies,Binder,607.5,6,143.59
+ORD00328,2024-04-23,Customer_138,South,Technology,Phone,460.08,2,37.68
+ORD00329,2023-06-27,Customer_142,North,Office Supplies,Binder,319.59,4,44.99
+ORD00330,2024-09-20,Customer_89,West,Office Supplies,Binder,663.62,8,127.88
+ORD00331,2023-06-21,Customer_75,North,Furniture,Desk,388.29,7,115.18
+ORD00332,2022-04-19,Customer_42,North,Furniture,Desk,625.49,1,68.37
+ORD00333,2022-04-21,Customer_51,East,Furniture,Bookcase,146.69,3,12.94
+ORD00334,2023-09-28,Customer_181,West,Furniture,Bookcase,283.66,2,25.58
+ORD00335,2024-08-22,Customer_140,West,Office Supplies,Pen,227.24,1,27.56
+ORD00336,2024-05-13,Customer_145,North,Furniture,Desk,214.7,2,58.87
+ORD00337,2023-07-04,Customer_93,North,Furniture,Chair,126.22,9,22.86
+ORD00338,2024-03-17,Customer_39,West,Technology,Monitor,439.88,10,130.03
+ORD00339,2024-02-06,Customer_152,East,Technology,Phone,156.44,9,23.38
+ORD00340,2024-03-11,Customer_127,South,Furniture,Chair,971.0,2,258.65
+ORD00341,2024-09-14,Customer_73,South,Technology,Laptop,826.22,1,94.58
+ORD00342,2022-10-09,Customer_156,North,Office Supplies,Paper,212.34,2,46.11
+ORD00343,2024-02-17,Customer_156,South,Office Supplies,Stapler,932.91,1,176.5
+ORD00344,2022-02-02,Customer_73,South,Office Supplies,Paper,593.03,3,71.16
+ORD00345,2022-12-15,Customer_122,North,Technology,Laptop,781.02,8,75.57
+ORD00346,2022-05-28,Customer_110,North,Technology,Phone,357.5,2,55.9
+ORD00347,2024-07-25,Customer_92,South,Technology,Printer,532.23,7,58.87
+ORD00348,2023-08-22,Customer_26,East,Office Supplies,Stapler,159.09,8,32.24
+ORD00349,2024-03-15,Customer_122,West,Furniture,Bookcase,324.2,5,63.32
+ORD00350,2023-03-03,Customer_23,South,Technology,Printer,196.64,4,33.48
+ORD00351,2022-09-28,Customer_113,East,Furniture,Bookcase,555.96,9,35.0
+ORD00352,2024-09-11,Customer_107,East,Furniture,Table,369.77,9,30.91
+ORD00353,2022-09-06,Customer_34,West,Furniture,Bookcase,110.21,6,32.79
+ORD00354,2022-06-20,Customer_107,South,Office Supplies,Binder,356.24,4,89.94
+ORD00355,2022-05-14,Customer_100,North,Furniture,Bookcase,291.91,7,64.33
+ORD00356,2022-06-16,Customer_84,North,Technology,Laptop,772.22,8,153.6
+ORD00357,2024-05-10,Customer_171,South,Office Supplies,Binder,498.0,2,76.17
+ORD00358,2022-06-02,Customer_123,East,Technology,Laptop,381.42,5,107.71
+ORD00359,2022-03-25,Customer_40,East,Technology,Printer,839.09,1,244.39
+ORD00360,2022-07-24,Customer_129,North,Technology,Printer,168.08,10,39.12
+ORD00361,2023-01-04,Customer_149,North,Office Supplies,Stapler,941.42,4,89.73
+ORD00362,2023-08-24,Customer_2,North,Furniture,Table,113.17,1,26.63
+ORD00363,2023-05-13,Customer_114,North,Office Supplies,Binder,595.75,4,155.17
+ORD00364,2022-06-15,Customer_167,North,Furniture,Bookcase,182.78,3,45.48
+ORD00365,2024-08-10,Customer_149,West,Office Supplies,Stapler,241.55,6,21.96
+ORD00366,2023-10-20,Customer_187,South,Office Supplies,Pen,206.05,8,52.26
+ORD00367,2023-05-01,Customer_141,North,Technology,Monitor,681.94,7,123.27
+ORD00368,2022-06-24,Customer_15,East,Technology,Phone,390.89,1,105.27
+ORD00369,2022-07-29,Customer_188,East,Technology,Laptop,422.82,10,107.46
+ORD00370,2023-11-19,Customer_180,East,Furniture,Bookcase,467.18,10,67.38
+ORD00371,2023-07-03,Customer_1,North,Office Supplies,Pen,489.55,8,61.36
+ORD00372,2022-12-23,Customer_26,North,Furniture,Table,760.23,1,133.56
+ORD00373,2022-11-08,Customer_190,East,Technology,Monitor,270.6,5,74.39
+ORD00374,2024-03-06,Customer_155,East,Office Supplies,Pen,414.7,3,77.09
+ORD00375,2024-04-18,Customer_126,West,Furniture,Desk,911.15,2,187.75
+ORD00376,2024-06-11,Customer_83,East,Technology,Laptop,161.05,3,45.89
+ORD00377,2024-07-17,Customer_68,South,Technology,Monitor,646.32,5,86.43
+ORD00378,2022-10-10,Customer_14,North,Technology,Monitor,182.31,2,45.31
+ORD00379,2023-03-01,Customer_55,East,Office Supplies,Paper,639.07,7,117.18
+ORD00380,2023-02-11,Customer_50,West,Furniture,Table,899.2,10,222.24
+ORD00381,2024-08-11,Customer_33,South,Furniture,Table,194.09,10,24.83
+ORD00382,2023-07-07,Customer_7,South,Office Supplies,Binder,286.06,6,67.51
+ORD00383,2023-08-22,Customer_168,North,Office Supplies,Binder,81.86,2,15.76
+ORD00384,2022-11-15,Customer_189,South,Technology,Monitor,774.34,8,208.45
+ORD00385,2023-07-17,Customer_101,West,Furniture,Chair,374.98,8,95.74
+ORD00386,2023-09-16,Customer_170,West,Office Supplies,Pen,155.1,2,40.58
+ORD00387,2023-08-07,Customer_82,West,Office Supplies,Pen,171.11,2,25.55
+ORD00388,2022-08-02,Customer_33,South,Furniture,Bookcase,807.43,2,70.63
+ORD00389,2022-05-27,Customer_103,West,Furniture,Chair,267.79,8,61.74
+ORD00390,2023-08-10,Customer_127,West,Furniture,Table,734.03,8,154.36
+ORD00391,2023-04-19,Customer_157,South,Furniture,Table,709.25,9,131.69
+ORD00392,2023-12-07,Customer_84,West,Technology,Laptop,289.21,9,39.46
+ORD00393,2022-05-05,Customer_71,North,Furniture,Table,222.52,4,61.66
+ORD00394,2023-05-13,Customer_142,West,Technology,Laptop,604.22,8,90.76
+ORD00395,2024-01-07,Customer_164,East,Technology,Monitor,488.91,3,140.23
+ORD00396,2022-12-03,Customer_54,North,Technology,Printer,195.68,10,38.46
+ORD00397,2023-07-08,Customer_148,North,Furniture,Desk,530.59,10,107.64
+ORD00398,2022-08-24,Customer_162,South,Technology,Phone,67.2,3,18.01
+ORD00399,2022-09-29,Customer_145,West,Technology,Printer,935.51,9,178.95
+ORD00400,2024-08-06,Customer_16,West,Technology,Monitor,711.82,1,199.75
+ORD00401,2024-04-05,Customer_159,North,Technology,Printer,721.88,5,63.62
+ORD00402,2023-08-27,Customer_37,East,Technology,Monitor,597.47,2,120.5
+ORD00403,2023-01-07,Customer_104,South,Technology,Printer,452.92,5,106.03
+ORD00404,2024-05-19,Customer_128,West,Office Supplies,Paper,937.65,5,263.85
+ORD00405,2023-04-12,Customer_43,West,Office Supplies,Paper,478.3,6,37.46
+ORD00406,2023-05-24,Customer_38,West,Furniture,Chair,985.6,5,255.98
+ORD00407,2022-04-16,Customer_15,North,Office Supplies,Stapler,168.43,10,47.2
+ORD00408,2023-04-14,Customer_119,West,Technology,Phone,876.4,2,157.5
+ORD00409,2022-10-27,Customer_141,East,Technology,Phone,611.71,8,91.6
+ORD00410,2023-04-29,Customer_196,North,Technology,Phone,102.02,9,13.65
+ORD00411,2023-12-14,Customer_141,East,Technology,Printer,812.71,5,41.58
+ORD00412,2024-08-22,Customer_19,East,Office Supplies,Binder,366.82,7,54.86
+ORD00413,2022-04-26,Customer_179,West,Office Supplies,Stapler,560.53,7,156.93
+ORD00414,2023-10-20,Customer_63,North,Office Supplies,Paper,379.03,3,51.83
+ORD00415,2022-09-29,Customer_127,North,Technology,Laptop,750.63,10,122.39
+ORD00416,2023-01-12,Customer_169,East,Office Supplies,Pen,263.37,3,42.96
+ORD00417,2022-03-19,Customer_75,South,Office Supplies,Binder,183.81,4,17.3
+ORD00418,2023-01-21,Customer_103,West,Furniture,Bookcase,523.45,5,80.99
+ORD00419,2024-09-18,Customer_117,West,Office Supplies,Pen,919.1,9,129.22
+ORD00420,2024-03-31,Customer_4,South,Furniture,Desk,601.56,3,125.16
+ORD00421,2024-08-23,Customer_183,East,Office Supplies,Pen,62.44,4,13.48
+ORD00422,2023-01-28,Customer_183,West,Technology,Laptop,219.13,1,63.61
+ORD00423,2024-03-14,Customer_144,West,Technology,Phone,191.23,3,29.38
+ORD00424,2024-05-18,Customer_167,East,Technology,Monitor,131.08,1,39.22
+ORD00425,2022-12-10,Customer_70,West,Technology,Monitor,527.09,9,104.81
+ORD00426,2024-08-30,Customer_146,North,Furniture,Table,113.72,3,27.01
+ORD00427,2022-08-23,Customer_46,East,Technology,Phone,249.41,6,68.47
+ORD00428,2024-09-25,Customer_19,South,Technology,Monitor,244.88,1,23.92
+ORD00429,2022-01-20,Customer_93,South,Technology,Monitor,84.72,6,14.23
+ORD00430,2024-01-04,Customer_34,South,Office Supplies,Binder,586.6,4,38.97
+ORD00431,2024-08-28,Customer_84,South,Technology,Printer,786.75,2,128.49
+ORD00432,2024-03-31,Customer_28,West,Furniture,Desk,548.17,7,87.81
+ORD00433,2022-12-24,Customer_16,East,Furniture,Table,430.72,6,81.8
+ORD00434,2023-05-02,Customer_58,West,Office Supplies,Pen,197.48,10,18.86
+ORD00435,2022-05-05,Customer_69,North,Technology,Laptop,868.7,10,248.91
+ORD00436,2023-08-18,Customer_17,West,Office Supplies,Pen,404.64,2,47.62
+ORD00437,2024-01-15,Customer_17,West,Office Supplies,Pen,661.8,5,100.72
+ORD00438,2023-12-07,Customer_197,East,Technology,Laptop,74.12,5,6.6
+ORD00439,2023-04-13,Customer_106,South,Technology,Phone,730.17,8,156.79
+ORD00440,2022-01-29,Customer_110,North,Office Supplies,Paper,75.74,8,7.99
+ORD00441,2022-01-04,Customer_157,North,Furniture,Bookcase,269.52,3,58.75
+ORD00442,2023-12-16,Customer_194,North,Technology,Laptop,68.73,2,5.23
+ORD00443,2022-09-10,Customer_60,East,Technology,Laptop,809.92,8,76.65
+ORD00444,2023-08-29,Customer_79,North,Technology,Monitor,670.11,9,73.41
+ORD00445,2024-06-21,Customer_70,North,Office Supplies,Binder,144.47,7,16.01
+ORD00446,2022-11-22,Customer_120,South,Office Supplies,Pen,736.15,8,194.29
+ORD00447,2023-01-23,Customer_2,South,Technology,Monitor,838.71,6,125.22
+ORD00448,2022-03-12,Customer_112,South,Office Supplies,Stapler,684.68,9,69.32
+ORD00449,2023-11-17,Customer_159,South,Office Supplies,Stapler,328.49,7,90.03
+ORD00450,2024-02-27,Customer_159,West,Furniture,Table,62.35,8,4.45
+ORD00451,2023-10-19,Customer_91,East,Office Supplies,Pen,247.49,8,14.02
+ORD00452,2024-07-30,Customer_35,West,Office Supplies,Stapler,222.36,6,43.53
+ORD00453,2022-09-18,Customer_197,South,Office Supplies,Stapler,450.35,2,123.02
+ORD00454,2024-09-27,Customer_182,West,Office Supplies,Pen,826.57,10,111.96
+ORD00455,2023-05-25,Customer_163,South,Office Supplies,Paper,296.45,8,42.96
+ORD00456,2023-05-20,Customer_89,South,Office Supplies,Binder,610.78,6,71.47
+ORD00457,2022-07-24,Customer_16,West,Furniture,Desk,642.94,4,97.95
+ORD00458,2022-12-01,Customer_46,East,Technology,Printer,574.44,6,91.35
+ORD00459,2023-03-13,Customer_26,West,Furniture,Desk,329.74,6,94.67
+ORD00460,2023-04-23,Customer_179,West,Technology,Printer,775.43,4,65.93
+ORD00461,2024-02-20,Customer_82,North,Office Supplies,Binder,875.04,7,150.38
+ORD00462,2022-04-02,Customer_44,South,Furniture,Table,899.82,2,224.92
+ORD00463,2023-12-16,Customer_138,South,Office Supplies,Stapler,453.95,3,25.25
+ORD00464,2022-01-22,Customer_173,North,Technology,Laptop,305.24,2,56.59
+ORD00465,2024-03-15,Customer_31,South,Office Supplies,Stapler,651.8,7,74.61
+ORD00466,2022-03-15,Customer_122,South,Furniture,Chair,182.39,8,47.19
+ORD00467,2023-11-13,Customer_17,South,Technology,Laptop,985.18,8,178.73
+ORD00468,2022-04-01,Customer_69,South,Technology,Laptop,213.1,8,25.16
+ORD00469,2023-10-03,Customer_19,East,Technology,Phone,67.47,7,18.8
+ORD00470,2024-02-24,Customer_5,West,Technology,Phone,161.86,2,31.42
+ORD00471,2023-07-04,Customer_159,West,Technology,Phone,310.35,2,58.51
+ORD00472,2024-02-16,Customer_136,East,Furniture,Table,668.85,9,172.19
+ORD00473,2024-06-11,Customer_88,South,Office Supplies,Paper,246.1,1,12.98
+ORD00474,2024-01-23,Customer_179,South,Furniture,Desk,180.04,2,49.51
+ORD00475,2022-06-14,Customer_81,South,Office Supplies,Stapler,880.2,5,175.47
+ORD00476,2024-04-06,Customer_140,West,Office Supplies,Pen,620.49,7,134.19
+ORD00477,2023-12-30,Customer_120,West,Technology,Printer,216.6,5,60.35
+ORD00478,2022-05-19,Customer_129,North,Furniture,Bookcase,447.83,7,65.29
+ORD00479,2022-04-21,Customer_142,South,Office Supplies,Paper,542.97,4,33.52
+ORD00480,2022-08-16,Customer_60,West,Office Supplies,Stapler,207.97,8,48.77
+ORD00481,2023-12-07,Customer_122,East,Office Supplies,Binder,128.66,8,25.83
+ORD00482,2024-07-22,Customer_154,South,Furniture,Chair,283.08,5,41.7
+ORD00483,2024-05-05,Customer_109,North,Office Supplies,Binder,324.26,8,45.05
+ORD00484,2024-02-20,Customer_96,South,Office Supplies,Pen,733.09,1,91.11
+ORD00485,2022-05-23,Customer_130,South,Technology,Phone,588.08,4,99.39
+ORD00486,2023-11-05,Customer_51,East,Technology,Laptop,680.49,3,193.4
+ORD00487,2023-03-25,Customer_13,West,Office Supplies,Paper,745.94,10,77.38
+ORD00488,2023-06-02,Customer_159,South,Furniture,Desk,79.62,9,9.2
+ORD00489,2023-04-07,Customer_167,East,Furniture,Chair,615.32,2,38.68
+ORD00490,2022-09-24,Customer_185,East,Office Supplies,Binder,521.55,1,103.9
+ORD00491,2022-06-28,Customer_103,South,Technology,Phone,367.53,9,89.21
+ORD00492,2022-12-23,Customer_29,West,Technology,Phone,151.27,7,10.41
+ORD00493,2024-06-23,Customer_45,South,Technology,Monitor,741.78,4,128.98
+ORD00494,2024-02-18,Customer_78,North,Office Supplies,Paper,703.98,10,111.73
+ORD00495,2022-02-08,Customer_141,East,Office Supplies,Paper,284.08,2,72.38
+ORD00496,2023-05-14,Customer_91,East,Office Supplies,Pen,809.45,1,181.05
+ORD00497,2023-02-02,Customer_4,West,Technology,Monitor,308.54,8,60.95
+ORD00498,2023-04-23,Customer_185,South,Furniture,Desk,392.93,6,28.64
+ORD00499,2024-09-12,Customer_52,South,Technology,Printer,921.45,1,77.59
+ORD00500,2023-07-31,Customer_85,South,Furniture,Desk,952.73,2,153.87
+ORD00501,2022-01-01,Customer_15,South,Technology,Monitor,225.88,6,41.9
+ORD00502,2024-05-27,Customer_147,South,Office Supplies,Binder,879.3,9,204.93
+ORD00503,2022-10-18,Customer_128,South,Furniture,Bookcase,816.23,2,175.24
+ORD00504,2022-10-28,Customer_109,West,Office Supplies,Paper,707.66,7,185.62
+ORD00505,2024-05-03,Customer_195,West,Technology,Phone,287.18,2,49.5
+ORD00506,2024-02-13,Customer_127,West,Technology,Monitor,260.15,2,77.24
+ORD00507,2022-11-04,Customer_184,West,Technology,Printer,946.86,1,56.68
+ORD00508,2024-09-17,Customer_181,East,Technology,Printer,720.3,3,202.63
+ORD00509,2023-01-05,Customer_143,West,Office Supplies,Stapler,221.55,5,42.53
+ORD00510,2023-08-10,Customer_138,West,Technology,Laptop,919.71,2,53.79
+ORD00511,2024-07-12,Customer_17,East,Technology,Laptop,712.55,5,88.6
+ORD00512,2023-10-14,Customer_30,West,Office Supplies,Binder,928.18,10,271.74
+ORD00513,2023-06-26,Customer_53,West,Office Supplies,Pen,947.05,3,159.63
+ORD00514,2022-07-27,Customer_34,North,Office Supplies,Pen,868.94,3,226.91
+ORD00515,2023-12-28,Customer_177,South,Technology,Phone,353.15,7,90.84
+ORD00516,2023-11-19,Customer_177,West,Furniture,Desk,85.16,10,16.95
+ORD00517,2023-05-25,Customer_178,South,Furniture,Desk,268.51,5,21.52
+ORD00518,2022-03-28,Customer_128,East,Technology,Monitor,123.11,1,27.59
+ORD00519,2023-11-21,Customer_64,East,Technology,Printer,372.88,2,86.21
+ORD00520,2022-08-31,Customer_82,East,Office Supplies,Binder,112.09,1,14.44
+ORD00521,2023-07-31,Customer_28,North,Furniture,Chair,562.52,4,139.33
+ORD00522,2022-09-24,Customer_161,South,Office Supplies,Stapler,352.81,4,72.85
+ORD00523,2023-10-29,Customer_91,West,Furniture,Desk,891.68,1,181.87
+ORD00524,2024-04-18,Customer_127,North,Technology,Printer,271.31,7,15.22
+ORD00525,2022-09-24,Customer_85,East,Office Supplies,Binder,876.59,9,48.49
+ORD00526,2023-02-22,Customer_121,East,Furniture,Table,880.97,5,160.54
+ORD00527,2022-04-02,Customer_166,North,Furniture,Desk,942.11,5,235.24
+ORD00528,2023-04-22,Customer_55,North,Technology,Monitor,998.04,8,137.41
+ORD00529,2022-04-03,Customer_166,West,Office Supplies,Pen,778.83,4,117.2
+ORD00530,2023-08-16,Customer_96,West,Furniture,Chair,505.88,2,104.65
+ORD00531,2023-07-09,Customer_152,West,Office Supplies,Pen,879.99,4,260.5
+ORD00532,2023-05-16,Customer_158,West,Office Supplies,Pen,779.86,2,120.44
+ORD00533,2022-11-04,Customer_72,East,Office Supplies,Stapler,450.29,2,105.55
+ORD00534,2024-05-18,Customer_145,West,Technology,Laptop,276.84,4,21.49
+ORD00535,2022-07-29,Customer_4,East,Office Supplies,Paper,386.89,3,47.13
+ORD00536,2024-05-27,Customer_81,West,Technology,Monitor,331.49,4,35.93
+ORD00537,2022-08-05,Customer_145,East,Technology,Printer,89.99,9,4.9
+ORD00538,2022-12-20,Customer_36,West,Office Supplies,Stapler,988.34,4,155.11
+ORD00539,2024-02-20,Customer_147,West,Office Supplies,Pen,415.11,1,91.29
+ORD00540,2022-10-19,Customer_97,West,Technology,Printer,257.34,7,73.98
+ORD00541,2022-09-08,Customer_131,East,Office Supplies,Pen,797.03,10,57.67
+ORD00542,2024-08-04,Customer_159,South,Furniture,Chair,446.7,4,120.51
+ORD00543,2024-09-12,Customer_35,North,Office Supplies,Paper,947.5,8,158.09
+ORD00544,2022-08-12,Customer_174,East,Furniture,Chair,632.74,5,58.06
+ORD00545,2022-02-24,Customer_92,East,Technology,Printer,991.61,5,107.01
+ORD00546,2022-10-10,Customer_120,West,Technology,Printer,945.6,9,200.86
+ORD00547,2022-02-25,Customer_181,North,Office Supplies,Stapler,627.35,7,111.78
+ORD00548,2023-07-18,Customer_114,East,Furniture,Desk,269.14,10,25.33
+ORD00549,2023-01-10,Customer_184,West,Furniture,Table,259.46,1,25.07
+ORD00550,2023-04-25,Customer_16,North,Furniture,Chair,790.61,7,108.73
+ORD00551,2023-06-11,Customer_144,West,Office Supplies,Stapler,104.95,7,30.67
+ORD00552,2024-02-21,Customer_132,North,Technology,Laptop,889.6,4,250.81
+ORD00553,2023-01-22,Customer_159,East,Office Supplies,Pen,995.16,2,93.02
+ORD00554,2024-06-20,Customer_3,East,Office Supplies,Paper,426.43,4,102.16
+ORD00555,2022-09-04,Customer_14,West,Furniture,Chair,711.22,7,62.92
+ORD00556,2024-06-27,Customer_70,South,Office Supplies,Pen,825.04,8,87.55
+ORD00557,2022-12-10,Customer_195,West,Office Supplies,Pen,262.63,1,48.39
+ORD00558,2024-03-03,Customer_138,North,Furniture,Desk,613.29,4,119.6
+ORD00559,2023-04-13,Customer_185,West,Technology,Laptop,136.91,10,36.88
+ORD00560,2024-06-23,Customer_75,North,Office Supplies,Paper,302.32,1,24.9
+ORD00561,2023-03-13,Customer_16,North,Technology,Monitor,894.31,8,258.38
+ORD00562,2022-02-21,Customer_42,North,Office Supplies,Pen,869.02,10,219.32
+ORD00563,2022-01-19,Customer_127,West,Technology,Printer,672.48,10,126.23
+ORD00564,2024-04-15,Customer_115,South,Furniture,Chair,132.64,7,20.18
+ORD00565,2024-07-03,Customer_34,South,Furniture,Table,404.05,6,46.44
+ORD00566,2023-04-04,Customer_134,North,Technology,Printer,737.25,4,128.26
+ORD00567,2023-02-12,Customer_43,South,Technology,Laptop,126.99,8,13.34
+ORD00568,2023-09-16,Customer_182,East,Office Supplies,Stapler,699.1,5,48.26
+ORD00569,2023-01-23,Customer_158,South,Office Supplies,Binder,858.65,3,149.22
+ORD00570,2024-07-27,Customer_188,North,Office Supplies,Binder,506.56,10,100.35
+ORD00571,2024-06-15,Customer_175,West,Technology,Monitor,833.45,10,114.14
+ORD00572,2023-10-29,Customer_66,South,Furniture,Bookcase,694.12,7,132.88
+ORD00573,2023-02-07,Customer_103,West,Office Supplies,Paper,303.68,4,81.89
+ORD00574,2024-03-01,Customer_183,South,Furniture,Table,807.55,7,173.31
+ORD00575,2023-09-20,Customer_160,West,Office Supplies,Paper,858.05,4,228.95
+ORD00576,2022-05-12,Customer_98,North,Office Supplies,Binder,722.94,5,187.42
+ORD00577,2022-03-25,Customer_199,South,Technology,Phone,712.6,6,156.8
+ORD00578,2024-07-08,Customer_164,East,Technology,Laptop,637.68,5,151.88
+ORD00579,2024-05-14,Customer_99,North,Office Supplies,Paper,200.67,7,54.22
+ORD00580,2023-08-28,Customer_74,North,Office Supplies,Binder,878.25,7,50.33
+ORD00581,2023-07-15,Customer_159,South,Furniture,Bookcase,834.53,8,68.61
+ORD00582,2022-11-09,Customer_131,West,Office Supplies,Binder,368.36,2,86.89
+ORD00583,2022-08-30,Customer_121,North,Furniture,Bookcase,202.72,2,51.59
+ORD00584,2022-05-03,Customer_144,West,Office Supplies,Binder,840.53,5,148.66
+ORD00585,2022-04-09,Customer_150,South,Furniture,Desk,56.07,5,6.83
+ORD00586,2022-05-13,Customer_95,West,Technology,Phone,636.08,1,187.83
+ORD00587,2024-03-28,Customer_80,South,Office Supplies,Binder,650.22,7,74.74
+ORD00588,2024-07-08,Customer_173,North,Office Supplies,Paper,652.31,2,120.67
+ORD00589,2024-01-13,Customer_188,North,Office Supplies,Binder,790.85,9,60.69
+ORD00590,2022-03-20,Customer_142,East,Technology,Printer,772.98,5,143.25
+ORD00591,2022-10-05,Customer_94,West,Furniture,Chair,964.84,6,130.7
+ORD00592,2022-06-05,Customer_85,South,Furniture,Chair,650.99,10,184.23
+ORD00593,2022-03-01,Customer_41,East,Office Supplies,Paper,147.38,1,41.9
+ORD00594,2023-05-08,Customer_41,South,Technology,Laptop,703.49,10,47.11
+ORD00595,2022-12-20,Customer_9,South,Technology,Printer,335.92,6,76.27
+ORD00596,2023-08-07,Customer_27,South,Technology,Phone,113.98,6,22.29
+ORD00597,2023-02-27,Customer_145,East,Technology,Laptop,378.59,1,77.7
+ORD00598,2022-06-04,Customer_1,South,Technology,Laptop,93.45,3,25.03
+ORD00599,2023-06-01,Customer_17,North,Office Supplies,Stapler,974.81,10,284.86
+ORD00600,2023-09-05,Customer_21,West,Furniture,Table,762.17,2,62.9
+ORD00601,2024-03-12,Customer_117,West,Technology,Phone,770.35,6,43.25
+ORD00602,2023-10-11,Customer_40,East,Office Supplies,Pen,71.02,1,9.3
+ORD00603,2022-05-01,Customer_104,North,Furniture,Desk,514.21,4,124.75
+ORD00604,2023-03-14,Customer_138,West,Technology,Phone,699.13,5,112.89
+ORD00605,2022-03-22,Customer_109,East,Technology,Printer,309.95,10,92.76
+ORD00606,2024-06-06,Customer_186,North,Furniture,Bookcase,454.87,9,74.07
+ORD00607,2024-05-07,Customer_28,North,Furniture,Desk,205.44,7,51.09
+ORD00608,2023-10-02,Customer_3,North,Technology,Printer,709.0,1,74.58
+ORD00609,2022-12-20,Customer_97,South,Technology,Phone,128.26,4,28.23
+ORD00610,2022-05-23,Customer_70,North,Furniture,Bookcase,671.79,7,79.48
+ORD00611,2023-10-11,Customer_34,South,Technology,Phone,953.32,5,83.67
+ORD00612,2023-03-26,Customer_10,West,Office Supplies,Pen,460.72,4,131.72
+ORD00613,2023-08-24,Customer_128,South,Office Supplies,Pen,448.74,5,94.07
+ORD00614,2024-05-24,Customer_197,South,Office Supplies,Stapler,427.71,5,50.71
+ORD00615,2023-01-18,Customer_21,South,Office Supplies,Paper,984.78,3,150.01
+ORD00616,2022-07-31,Customer_151,North,Technology,Printer,899.39,7,96.67
+ORD00617,2023-09-15,Customer_17,West,Technology,Monitor,252.45,3,14.59
+ORD00618,2022-05-18,Customer_61,West,Technology,Laptop,669.08,6,95.1
+ORD00619,2024-03-09,Customer_3,East,Technology,Monitor,871.14,7,146.62
+ORD00620,2023-08-17,Customer_103,East,Office Supplies,Stapler,969.78,2,93.47
+ORD00621,2022-05-24,Customer_169,South,Office Supplies,Stapler,875.19,4,213.68
+ORD00622,2024-01-16,Customer_126,North,Office Supplies,Pen,782.38,9,204.35
+ORD00623,2024-05-11,Customer_111,East,Furniture,Chair,772.97,4,159.66
+ORD00624,2023-03-30,Customer_117,East,Office Supplies,Stapler,174.68,10,10.15
+ORD00625,2024-07-02,Customer_162,West,Office Supplies,Paper,924.81,7,188.81
+ORD00626,2023-08-09,Customer_115,North,Furniture,Bookcase,806.71,6,137.45
+ORD00627,2023-10-29,Customer_67,East,Technology,Laptop,161.44,5,13.12
+ORD00628,2024-04-25,Customer_130,West,Furniture,Bookcase,701.29,7,110.51
+ORD00629,2024-07-19,Customer_46,North,Technology,Laptop,240.5,7,41.58
+ORD00630,2024-05-15,Customer_36,North,Office Supplies,Stapler,111.0,2,21.7
+ORD00631,2023-05-03,Customer_154,North,Furniture,Chair,305.54,3,76.2
+ORD00632,2023-10-22,Customer_58,North,Furniture,Table,344.84,9,56.49
+ORD00633,2022-09-30,Customer_132,East,Furniture,Chair,61.04,2,4.16
+ORD00634,2022-10-14,Customer_65,East,Office Supplies,Paper,422.87,9,71.88
+ORD00635,2022-05-16,Customer_49,West,Office Supplies,Stapler,620.02,6,76.21
+ORD00636,2024-03-13,Customer_100,West,Office Supplies,Pen,710.23,1,188.23
+ORD00637,2023-01-18,Customer_21,South,Furniture,Desk,790.86,9,47.38
+ORD00638,2023-03-13,Customer_86,South,Office Supplies,Pen,506.48,8,38.61
+ORD00639,2023-10-06,Customer_72,North,Furniture,Desk,279.94,1,83.05
+ORD00640,2023-01-05,Customer_103,East,Technology,Phone,185.37,7,32.39
+ORD00641,2024-08-24,Customer_34,West,Furniture,Bookcase,637.25,9,143.77
+ORD00642,2024-06-23,Customer_95,West,Furniture,Table,581.67,3,30.5
+ORD00643,2024-01-26,Customer_46,South,Technology,Monitor,360.14,5,64.62
+ORD00644,2024-04-07,Customer_150,West,Technology,Phone,133.47,3,18.37
+ORD00645,2024-09-02,Customer_96,East,Furniture,Bookcase,81.54,5,5.68
+ORD00646,2024-07-18,Customer_132,East,Technology,Printer,427.08,1,35.52
+ORD00647,2022-12-21,Customer_75,North,Office Supplies,Paper,589.16,2,131.01
+ORD00648,2023-06-07,Customer_188,West,Office Supplies,Binder,810.56,2,81.09
+ORD00649,2022-07-26,Customer_40,East,Furniture,Bookcase,209.11,8,15.92
+ORD00650,2022-05-25,Customer_176,North,Furniture,Table,654.61,4,148.35
+ORD00651,2022-10-13,Customer_90,East,Technology,Printer,80.01,7,22.73
+ORD00652,2024-06-28,Customer_145,North,Furniture,Chair,99.37,3,18.42
+ORD00653,2022-12-02,Customer_15,South,Technology,Monitor,723.61,8,193.74
+ORD00654,2022-12-06,Customer_36,East,Technology,Monitor,728.38,3,182.41
+ORD00655,2023-03-18,Customer_64,South,Technology,Phone,372.48,8,94.5
+ORD00656,2023-01-01,Customer_184,West,Technology,Monitor,126.11,4,34.52
+ORD00657,2024-09-23,Customer_32,East,Furniture,Desk,570.21,8,145.02
+ORD00658,2022-09-29,Customer_195,West,Furniture,Table,479.7,2,101.17
+ORD00659,2024-02-22,Customer_118,West,Furniture,Chair,550.08,9,128.11
+ORD00660,2023-10-23,Customer_56,South,Office Supplies,Stapler,127.55,6,8.3
+ORD00661,2022-03-03,Customer_51,West,Technology,Laptop,284.75,2,25.6
+ORD00662,2022-04-08,Customer_17,South,Office Supplies,Binder,878.19,6,92.04
+ORD00663,2024-01-08,Customer_148,West,Technology,Laptop,977.07,1,131.15
+ORD00664,2023-12-23,Customer_20,East,Office Supplies,Binder,223.01,3,55.18
+ORD00665,2023-05-17,Customer_199,West,Office Supplies,Pen,675.77,3,117.95
+ORD00666,2022-05-14,Customer_26,West,Technology,Printer,577.6,5,132.73
+ORD00667,2023-07-02,Customer_143,South,Technology,Laptop,267.03,9,79.86
+ORD00668,2022-02-18,Customer_137,East,Office Supplies,Stapler,976.05,7,207.49
+ORD00669,2023-07-30,Customer_58,East,Technology,Monitor,239.57,6,52.72
+ORD00670,2022-12-09,Customer_67,North,Furniture,Bookcase,118.59,6,6.84
+ORD00671,2022-02-04,Customer_174,West,Furniture,Chair,294.8,9,48.84
+ORD00672,2022-05-13,Customer_160,West,Office Supplies,Paper,874.86,9,202.79
+ORD00673,2023-05-12,Customer_146,North,Technology,Monitor,755.57,5,118.15
+ORD00674,2022-01-24,Customer_171,East,Office Supplies,Stapler,378.64,10,54.05
+ORD00675,2022-08-13,Customer_48,East,Furniture,Chair,988.27,6,59.32
+ORD00676,2022-05-30,Customer_42,South,Technology,Laptop,873.68,4,170.08
+ORD00677,2023-04-04,Customer_26,East,Office Supplies,Stapler,466.68,10,107.95
+ORD00678,2024-01-18,Customer_37,West,Technology,Laptop,512.34,4,137.49
+ORD00679,2022-09-26,Customer_50,East,Technology,Phone,905.67,8,140.77
+ORD00680,2024-01-10,Customer_44,North,Office Supplies,Binder,312.99,5,62.0
+ORD00681,2022-07-27,Customer_80,East,Furniture,Desk,916.75,6,94.12
+ORD00682,2022-03-07,Customer_168,North,Office Supplies,Binder,641.82,6,133.43
+ORD00683,2024-04-15,Customer_46,South,Office Supplies,Stapler,746.46,8,61.88
+ORD00684,2023-07-23,Customer_67,North,Technology,Laptop,730.03,2,202.41
+ORD00685,2024-01-28,Customer_38,West,Technology,Monitor,220.7,6,24.14
+ORD00686,2024-07-30,Customer_36,South,Furniture,Table,972.83,10,92.66
+ORD00687,2024-07-20,Customer_72,East,Furniture,Desk,861.67,7,149.13
+ORD00688,2024-09-14,Customer_93,South,Technology,Monitor,284.87,2,76.26
+ORD00689,2022-02-27,Customer_79,West,Technology,Monitor,473.04,2,84.53
+ORD00690,2022-03-22,Customer_200,West,Technology,Printer,391.27,3,77.56
+ORD00691,2022-08-08,Customer_147,North,Office Supplies,Pen,205.35,5,30.34
+ORD00692,2023-09-03,Customer_74,North,Technology,Monitor,970.94,1,111.21
+ORD00693,2023-08-29,Customer_131,East,Furniture,Chair,673.9,8,88.48
+ORD00694,2022-01-09,Customer_178,East,Furniture,Desk,784.8,2,64.92
+ORD00695,2022-01-31,Customer_167,South,Office Supplies,Pen,971.33,8,158.76
+ORD00696,2024-04-10,Customer_64,South,Office Supplies,Stapler,274.25,10,18.75
+ORD00697,2024-02-13,Customer_197,East,Technology,Phone,211.27,7,38.02
+ORD00698,2022-06-16,Customer_177,South,Office Supplies,Binder,370.15,2,95.21
+ORD00699,2022-08-17,Customer_175,East,Technology,Laptop,459.34,9,51.53
+ORD00700,2024-06-29,Customer_64,North,Technology,Monitor,636.29,8,144.24
+ORD00701,2022-05-07,Customer_70,East,Furniture,Chair,208.69,5,19.18
+ORD00702,2024-06-09,Customer_47,East,Furniture,Chair,84.84,9,19.86
+ORD00703,2023-10-17,Customer_85,North,Technology,Monitor,680.61,3,114.79
+ORD00704,2023-11-29,Customer_138,South,Furniture,Bookcase,851.96,5,214.2
+ORD00705,2023-08-26,Customer_82,North,Office Supplies,Paper,606.09,6,161.87
+ORD00706,2023-10-24,Customer_122,South,Technology,Phone,245.55,10,19.15
+ORD00707,2024-01-30,Customer_97,West,Technology,Printer,306.26,1,19.68
+ORD00708,2023-11-09,Customer_118,South,Office Supplies,Stapler,554.61,4,157.59
+ORD00709,2022-09-07,Customer_120,North,Technology,Printer,87.38,10,7.04
+ORD00710,2023-11-28,Customer_189,East,Technology,Monitor,479.59,4,135.95
+ORD00711,2022-05-10,Customer_104,North,Technology,Phone,350.35,4,61.94
+ORD00712,2022-07-18,Customer_111,North,Office Supplies,Binder,89.49,3,7.79
+ORD00713,2023-10-19,Customer_51,West,Furniture,Desk,987.3,1,287.58
+ORD00714,2023-07-30,Customer_124,East,Technology,Phone,54.69,5,15.75
+ORD00715,2022-07-10,Customer_7,South,Office Supplies,Stapler,657.16,7,175.45
+ORD00716,2023-11-07,Customer_13,South,Technology,Laptop,482.0,2,86.23
+ORD00717,2023-11-17,Customer_177,North,Furniture,Chair,514.4,9,111.48
+ORD00718,2022-11-24,Customer_152,South,Office Supplies,Pen,182.67,6,10.5
+ORD00719,2023-06-05,Customer_69,North,Furniture,Chair,342.53,5,77.47
+ORD00720,2022-11-01,Customer_60,North,Technology,Printer,241.76,7,52.79
+ORD00721,2022-04-04,Customer_103,West,Technology,Phone,971.42,2,71.38
+ORD00722,2023-07-11,Customer_158,South,Furniture,Desk,688.97,1,110.88
+ORD00723,2024-03-30,Customer_4,North,Technology,Phone,874.74,8,82.48
+ORD00724,2022-06-23,Customer_80,North,Furniture,Desk,707.99,6,183.74
+ORD00725,2023-11-05,Customer_75,North,Furniture,Bookcase,947.38,10,209.19
+ORD00726,2024-03-17,Customer_79,South,Office Supplies,Stapler,522.32,3,106.79
+ORD00727,2024-04-09,Customer_33,North,Technology,Laptop,875.46,4,168.66
+ORD00728,2024-08-26,Customer_108,West,Technology,Laptop,78.87,7,22.3
+ORD00729,2023-03-01,Customer_127,East,Office Supplies,Binder,705.05,7,154.5
+ORD00730,2023-03-24,Customer_67,East,Technology,Phone,254.89,10,54.73
+ORD00731,2024-01-28,Customer_38,East,Technology,Phone,424.17,2,90.27
+ORD00732,2022-05-19,Customer_187,East,Furniture,Table,151.26,1,32.44
+ORD00733,2022-02-15,Customer_87,South,Furniture,Chair,999.44,3,62.02
+ORD00734,2022-12-30,Customer_114,East,Technology,Printer,978.32,7,148.44
+ORD00735,2024-01-06,Customer_18,West,Furniture,Chair,877.22,8,215.44
+ORD00736,2024-08-03,Customer_44,North,Office Supplies,Pen,588.67,5,138.11
+ORD00737,2024-03-27,Customer_68,West,Technology,Printer,884.59,6,133.6
+ORD00738,2023-03-03,Customer_115,South,Technology,Laptop,360.68,3,78.23
+ORD00739,2024-05-30,Customer_103,West,Furniture,Desk,817.45,10,196.65
+ORD00740,2022-10-05,Customer_136,South,Furniture,Table,807.92,3,128.38
+ORD00741,2024-03-20,Customer_31,South,Technology,Phone,826.94,3,66.2
+ORD00742,2023-03-11,Customer_140,West,Technology,Printer,567.26,4,29.18
+ORD00743,2023-10-14,Customer_17,South,Office Supplies,Stapler,358.36,5,50.75
+ORD00744,2023-04-18,Customer_48,South,Office Supplies,Pen,426.36,7,95.45
+ORD00745,2023-07-09,Customer_26,East,Furniture,Bookcase,419.13,3,67.97
+ORD00746,2022-08-26,Customer_54,West,Technology,Phone,275.67,3,39.51
+ORD00747,2024-01-01,Customer_110,South,Furniture,Chair,265.91,8,18.16
+ORD00748,2024-02-16,Customer_57,South,Technology,Laptop,623.28,2,135.28
+ORD00749,2023-08-04,Customer_35,South,Office Supplies,Stapler,638.52,2,105.91
+ORD00750,2023-06-14,Customer_84,East,Office Supplies,Binder,410.8,8,109.2
+ORD00751,2023-03-07,Customer_159,South,Furniture,Chair,543.13,3,92.22
+ORD00752,2023-11-08,Customer_51,North,Office Supplies,Stapler,74.36,3,10.06
+ORD00753,2024-09-07,Customer_7,West,Technology,Monitor,411.19,6,61.56
+ORD00754,2022-05-28,Customer_13,South,Office Supplies,Paper,601.16,2,110.25
+ORD00755,2022-02-26,Customer_36,South,Technology,Printer,627.51,10,151.37
+ORD00756,2023-08-03,Customer_168,East,Furniture,Chair,822.34,2,188.75
+ORD00757,2022-11-26,Customer_14,West,Office Supplies,Stapler,957.75,2,52.25
+ORD00758,2023-07-12,Customer_6,West,Office Supplies,Pen,235.99,1,12.25
+ORD00759,2024-07-06,Customer_92,West,Office Supplies,Stapler,665.1,6,182.58
+ORD00760,2024-01-29,Customer_188,West,Technology,Monitor,281.31,2,79.26
+ORD00761,2022-12-01,Customer_115,North,Furniture,Bookcase,107.25,6,30.42
+ORD00762,2022-09-06,Customer_34,South,Technology,Phone,384.04,10,28.94
+ORD00763,2022-05-23,Customer_110,South,Furniture,Bookcase,511.58,1,58.42
+ORD00764,2022-04-09,Customer_16,East,Furniture,Desk,320.63,1,40.66
+ORD00765,2023-08-17,Customer_69,East,Office Supplies,Stapler,812.87,4,150.21
+ORD00766,2023-12-25,Customer_38,East,Furniture,Desk,345.74,6,70.04
+ORD00767,2023-01-31,Customer_148,North,Office Supplies,Pen,730.34,3,86.29
+ORD00768,2022-06-09,Customer_96,North,Furniture,Desk,442.87,10,35.64
+ORD00769,2022-06-18,Customer_34,East,Office Supplies,Pen,222.09,8,48.92
+ORD00770,2024-07-27,Customer_141,West,Technology,Phone,222.37,7,40.31
+ORD00771,2023-05-14,Customer_71,West,Furniture,Bookcase,723.59,9,55.51
+ORD00772,2023-08-27,Customer_105,West,Office Supplies,Stapler,588.95,9,67.22
+ORD00773,2024-07-06,Customer_190,North,Office Supplies,Stapler,964.78,4,164.87
+ORD00774,2024-06-12,Customer_145,West,Office Supplies,Binder,815.69,3,152.99
+ORD00775,2022-03-27,Customer_185,East,Furniture,Bookcase,91.24,10,19.0
+ORD00776,2022-01-20,Customer_41,East,Technology,Laptop,953.83,3,191.15
+ORD00777,2023-11-16,Customer_189,South,Office Supplies,Pen,828.23,10,224.49
+ORD00778,2023-05-02,Customer_133,North,Furniture,Bookcase,266.68,4,27.47
+ORD00779,2022-12-14,Customer_183,East,Office Supplies,Stapler,630.43,7,96.3
+ORD00780,2023-02-11,Customer_114,South,Office Supplies,Binder,847.87,4,233.17
+ORD00781,2023-04-10,Customer_22,West,Technology,Printer,385.75,1,42.13
+ORD00782,2023-01-23,Customer_122,South,Technology,Monitor,791.5,9,93.95
+ORD00783,2023-04-05,Customer_123,East,Furniture,Desk,831.48,2,129.66
+ORD00784,2023-02-20,Customer_178,North,Office Supplies,Binder,684.17,2,50.55
+ORD00785,2024-01-09,Customer_70,West,Technology,Monitor,642.67,8,104.72
+ORD00786,2024-03-07,Customer_200,East,Technology,Printer,607.28,4,55.87
+ORD00787,2023-09-04,Customer_173,South,Furniture,Desk,750.03,8,199.28
+ORD00788,2022-06-11,Customer_20,North,Furniture,Desk,255.9,8,18.92
+ORD00789,2023-12-02,Customer_196,North,Office Supplies,Pen,72.46,5,15.25
+ORD00790,2023-10-12,Customer_106,West,Technology,Laptop,626.74,2,117.0
+ORD00791,2022-02-27,Customer_114,West,Technology,Phone,270.35,10,39.94
+ORD00792,2024-07-31,Customer_189,North,Office Supplies,Pen,614.75,9,107.08
+ORD00793,2023-11-24,Customer_67,North,Technology,Printer,988.4,3,83.13
+ORD00794,2022-03-26,Customer_154,East,Office Supplies,Stapler,710.39,6,107.33
+ORD00795,2022-11-04,Customer_42,East,Furniture,Table,456.79,6,104.79
+ORD00796,2022-11-30,Customer_140,South,Technology,Phone,707.81,8,210.8
+ORD00797,2022-09-28,Customer_27,North,Technology,Laptop,171.97,3,13.07
+ORD00798,2024-04-05,Customer_106,East,Office Supplies,Binder,738.12,6,143.64
+ORD00799,2023-10-21,Customer_132,South,Office Supplies,Pen,310.45,3,21.69
+ORD00800,2023-06-20,Customer_145,West,Office Supplies,Binder,131.38,9,35.94
+ORD00801,2024-01-09,Customer_153,East,Office Supplies,Stapler,232.27,6,30.39
+ORD00802,2024-02-25,Customer_143,North,Office Supplies,Binder,265.32,9,36.81
+ORD00803,2022-07-30,Customer_70,West,Furniture,Bookcase,115.95,8,20.84
+ORD00804,2022-09-30,Customer_169,North,Technology,Monitor,114.23,6,28.57
+ORD00805,2024-03-28,Customer_192,South,Technology,Monitor,272.03,10,50.33
+ORD00806,2023-05-29,Customer_119,North,Office Supplies,Binder,886.08,6,188.49
+ORD00807,2023-05-17,Customer_123,North,Office Supplies,Paper,556.31,4,72.92
+ORD00808,2024-07-03,Customer_104,West,Office Supplies,Paper,366.35,7,79.63
+ORD00809,2022-06-21,Customer_187,West,Technology,Monitor,994.43,4,214.26
+ORD00810,2024-07-04,Customer_169,East,Office Supplies,Stapler,579.89,2,134.92
+ORD00811,2024-03-28,Customer_35,South,Office Supplies,Stapler,491.95,9,31.99
+ORD00812,2024-02-16,Customer_119,North,Furniture,Table,584.18,1,169.07
+ORD00813,2023-11-28,Customer_131,North,Furniture,Table,216.54,5,48.18
+ORD00814,2024-05-03,Customer_7,South,Office Supplies,Paper,240.89,9,44.31
+ORD00815,2024-04-10,Customer_1,West,Furniture,Chair,141.84,4,23.06
+ORD00816,2022-11-25,Customer_104,West,Furniture,Chair,768.36,6,105.18
+ORD00817,2023-12-19,Customer_4,East,Technology,Printer,681.67,9,169.64
+ORD00818,2023-09-09,Customer_44,South,Furniture,Table,930.82,10,101.14
+ORD00819,2022-02-13,Customer_2,West,Technology,Laptop,429.35,4,37.83
+ORD00820,2024-01-29,Customer_121,North,Furniture,Chair,992.86,7,279.74
+ORD00821,2022-03-07,Customer_157,North,Office Supplies,Binder,562.96,4,146.66
+ORD00822,2023-05-29,Customer_86,East,Technology,Printer,544.91,2,112.2
+ORD00823,2023-01-02,Customer_76,East,Furniture,Desk,134.67,7,32.16
+ORD00824,2024-05-11,Customer_125,East,Furniture,Chair,171.33,2,43.95
+ORD00825,2022-10-25,Customer_50,West,Office Supplies,Pen,792.93,7,180.14
+ORD00826,2023-08-27,Customer_198,East,Furniture,Table,84.35,9,10.61
+ORD00827,2022-02-10,Customer_159,East,Office Supplies,Stapler,299.96,3,42.0
+ORD00828,2023-03-29,Customer_6,West,Office Supplies,Paper,133.26,5,37.88
+ORD00829,2024-02-16,Customer_16,West,Office Supplies,Binder,576.11,1,72.81
+ORD00830,2022-08-10,Customer_175,North,Furniture,Desk,427.13,8,69.11
+ORD00831,2024-05-12,Customer_48,North,Technology,Phone,620.56,7,111.03
+ORD00832,2023-04-28,Customer_79,North,Technology,Laptop,923.42,3,160.9
+ORD00833,2022-12-20,Customer_114,South,Technology,Laptop,992.55,7,260.9
+ORD00834,2023-05-11,Customer_186,South,Office Supplies,Pen,248.08,1,70.12
+ORD00835,2024-08-09,Customer_53,West,Technology,Monitor,160.55,10,40.84
+ORD00836,2024-01-26,Customer_138,North,Office Supplies,Pen,411.59,3,110.92
+ORD00837,2023-05-30,Customer_159,North,Furniture,Table,874.65,8,219.96
+ORD00838,2024-06-09,Customer_41,West,Furniture,Bookcase,800.53,4,101.0
+ORD00839,2022-11-01,Customer_69,North,Furniture,Desk,126.87,8,19.13
+ORD00840,2024-02-13,Customer_48,West,Furniture,Desk,214.85,3,48.07
+ORD00841,2024-04-15,Customer_5,East,Office Supplies,Stapler,378.79,10,111.33
+ORD00842,2022-07-13,Customer_63,East,Office Supplies,Binder,658.92,2,168.43
+ORD00843,2022-09-27,Customer_178,West,Furniture,Bookcase,175.9,8,46.7
+ORD00844,2024-08-19,Customer_149,West,Technology,Monitor,926.62,6,159.16
+ORD00845,2023-07-05,Customer_12,East,Office Supplies,Paper,625.94,8,150.98
+ORD00846,2022-07-07,Customer_197,South,Technology,Phone,216.1,6,37.96
+ORD00847,2023-10-29,Customer_45,North,Technology,Printer,428.73,4,37.13
+ORD00848,2023-03-17,Customer_63,West,Furniture,Bookcase,399.16,9,26.76
+ORD00849,2024-05-18,Customer_45,North,Furniture,Bookcase,74.52,1,6.24
+ORD00850,2024-08-18,Customer_140,East,Technology,Printer,964.96,2,180.82
+ORD00851,2022-02-05,Customer_132,West,Furniture,Bookcase,967.53,9,152.99
+ORD00852,2022-08-06,Customer_73,South,Technology,Monitor,346.23,3,61.12
+ORD00853,2022-12-08,Customer_185,East,Furniture,Chair,467.54,8,35.73
+ORD00854,2022-10-02,Customer_196,West,Furniture,Table,658.78,3,68.52
+ORD00855,2022-05-03,Customer_153,West,Technology,Printer,638.61,4,135.74
+ORD00856,2023-09-25,Customer_176,South,Furniture,Table,194.42,2,12.7
+ORD00857,2022-12-13,Customer_200,West,Technology,Monitor,791.72,10,130.59
+ORD00858,2023-01-31,Customer_12,West,Technology,Printer,105.26,1,31.44
+ORD00859,2023-10-04,Customer_117,West,Furniture,Chair,104.89,6,23.47
+ORD00860,2024-08-08,Customer_177,West,Furniture,Desk,984.49,5,108.09
+ORD00861,2023-05-18,Customer_6,South,Office Supplies,Binder,185.14,1,14.88
+ORD00862,2022-03-22,Customer_137,South,Furniture,Bookcase,338.11,2,25.45
+ORD00863,2022-05-11,Customer_79,West,Furniture,Desk,707.55,4,46.4
+ORD00864,2023-10-12,Customer_64,West,Office Supplies,Stapler,533.95,7,159.74
+ORD00865,2023-04-20,Customer_75,South,Furniture,Bookcase,823.27,10,167.79
+ORD00866,2024-02-09,Customer_23,North,Office Supplies,Stapler,340.94,10,70.22
+ORD00867,2023-01-30,Customer_49,North,Furniture,Table,550.69,5,86.19
+ORD00868,2024-08-23,Customer_149,South,Furniture,Bookcase,174.17,8,47.31
+ORD00869,2024-01-15,Customer_94,East,Office Supplies,Binder,477.3,4,47.09
+ORD00870,2023-07-20,Customer_44,South,Office Supplies,Binder,399.37,9,61.32
+ORD00871,2023-02-22,Customer_179,South,Technology,Phone,836.16,8,195.16
+ORD00872,2022-08-02,Customer_89,South,Furniture,Bookcase,780.84,5,41.2
+ORD00873,2023-08-22,Customer_113,South,Office Supplies,Binder,445.35,6,75.86
+ORD00874,2024-02-17,Customer_121,North,Office Supplies,Paper,68.23,5,7.84
+ORD00875,2022-10-30,Customer_21,West,Technology,Monitor,772.28,2,65.09
+ORD00876,2022-01-28,Customer_169,West,Furniture,Chair,558.54,9,57.98
+ORD00877,2023-02-15,Customer_48,South,Office Supplies,Paper,61.51,5,6.78
+ORD00878,2022-12-20,Customer_179,North,Furniture,Desk,977.08,5,244.65
+ORD00879,2022-06-10,Customer_1,East,Office Supplies,Paper,961.6,9,165.36
+ORD00880,2024-07-24,Customer_183,North,Office Supplies,Binder,154.25,9,28.84
+ORD00881,2022-03-27,Customer_36,East,Furniture,Table,481.66,4,125.76
+ORD00882,2022-07-08,Customer_99,West,Furniture,Desk,143.18,4,24.64
+ORD00883,2022-07-29,Customer_199,West,Technology,Laptop,192.55,5,25.26
+ORD00884,2023-01-12,Customer_67,North,Technology,Phone,750.49,6,126.84
+ORD00885,2022-04-27,Customer_34,East,Furniture,Bookcase,407.09,6,60.5
+ORD00886,2023-07-26,Customer_57,North,Office Supplies,Binder,486.47,10,119.8
+ORD00887,2022-05-07,Customer_84,North,Furniture,Bookcase,897.48,9,259.22
+ORD00888,2023-03-25,Customer_132,North,Office Supplies,Paper,797.56,7,102.77
+ORD00889,2023-07-06,Customer_112,South,Furniture,Table,703.73,5,112.18
+ORD00890,2023-08-01,Customer_31,South,Technology,Phone,291.94,3,75.97
+ORD00891,2024-05-03,Customer_48,South,Technology,Monitor,86.51,9,23.83
+ORD00892,2024-05-23,Customer_175,East,Furniture,Bookcase,488.4,5,102.22
+ORD00893,2023-02-04,Customer_50,South,Office Supplies,Binder,676.39,8,185.18
+ORD00894,2022-01-21,Customer_124,East,Furniture,Chair,654.84,5,133.25
+ORD00895,2023-11-24,Customer_156,South,Office Supplies,Paper,113.32,9,20.35
+ORD00896,2024-07-25,Customer_127,West,Furniture,Chair,192.66,5,45.15
+ORD00897,2022-12-14,Customer_184,East,Furniture,Bookcase,536.61,4,118.08
+ORD00898,2024-02-03,Customer_21,South,Office Supplies,Stapler,89.59,8,6.38
+ORD00899,2023-06-03,Customer_55,West,Office Supplies,Binder,730.51,8,49.69
+ORD00900,2023-11-03,Customer_53,South,Technology,Monitor,117.69,7,6.24
+ORD00901,2023-01-04,Customer_78,East,Technology,Monitor,958.68,7,224.69
+ORD00902,2023-07-27,Customer_152,West,Technology,Phone,385.59,3,47.86
+ORD00903,2022-12-16,Customer_66,South,Technology,Laptop,382.22,1,93.13
+ORD00904,2023-04-10,Customer_136,East,Furniture,Table,678.3,4,65.32
+ORD00905,2022-04-19,Customer_87,West,Furniture,Table,215.4,2,16.07
+ORD00906,2024-01-23,Customer_8,West,Office Supplies,Stapler,677.29,8,163.29
+ORD00907,2023-09-10,Customer_177,North,Technology,Laptop,301.79,2,16.67
+ORD00908,2024-07-06,Customer_154,South,Office Supplies,Binder,128.06,8,37.39
+ORD00909,2024-07-06,Customer_17,North,Furniture,Desk,330.67,7,80.12
+ORD00910,2022-08-24,Customer_14,South,Technology,Laptop,643.43,2,93.61
+ORD00911,2022-10-28,Customer_61,South,Furniture,Table,245.4,7,19.72
+ORD00912,2022-12-08,Customer_164,West,Technology,Laptop,634.26,5,154.54
+ORD00913,2023-09-29,Customer_65,West,Office Supplies,Paper,661.71,10,120.81
+ORD00914,2023-03-11,Customer_164,West,Technology,Laptop,89.85,1,26.25
+ORD00915,2024-08-04,Customer_1,West,Furniture,Bookcase,808.78,2,99.65
+ORD00916,2023-07-21,Customer_1,West,Technology,Printer,980.97,1,196.66
+ORD00917,2024-02-06,Customer_189,East,Technology,Laptop,603.3,2,142.99
+ORD00918,2024-09-15,Customer_154,East,Furniture,Desk,821.18,10,175.83
+ORD00919,2022-12-31,Customer_112,South,Office Supplies,Paper,171.69,7,23.1
+ORD00920,2023-01-07,Customer_116,East,Office Supplies,Binder,931.68,1,98.9
+ORD00921,2023-09-13,Customer_3,North,Furniture,Bookcase,403.56,5,63.77
+ORD00922,2022-03-18,Customer_198,North,Technology,Laptop,467.43,8,95.0
+ORD00923,2024-05-17,Customer_167,South,Furniture,Chair,945.92,10,104.22
+ORD00924,2023-08-20,Customer_145,West,Furniture,Bookcase,165.43,6,16.44
+ORD00925,2023-07-23,Customer_109,South,Technology,Printer,892.58,1,188.74
+ORD00926,2023-07-12,Customer_166,North,Furniture,Chair,321.61,9,81.68
+ORD00927,2023-04-08,Customer_127,East,Office Supplies,Binder,868.3,7,227.17
+ORD00928,2023-04-25,Customer_95,East,Office Supplies,Pen,922.98,7,104.35
+ORD00929,2024-03-31,Customer_188,South,Technology,Phone,767.29,5,126.71
+ORD00930,2022-04-15,Customer_81,North,Technology,Monitor,849.9,5,197.28
+ORD00931,2022-06-25,Customer_39,South,Furniture,Bookcase,787.63,4,168.58
+ORD00932,2022-04-29,Customer_138,East,Office Supplies,Paper,218.56,3,40.71
+ORD00933,2024-03-26,Customer_28,South,Furniture,Desk,985.44,10,280.21
+ORD00934,2024-01-14,Customer_35,South,Technology,Phone,91.02,10,8.3
+ORD00935,2022-07-13,Customer_110,West,Office Supplies,Pen,175.14,2,40.54
+ORD00936,2024-06-20,Customer_79,North,Office Supplies,Binder,826.9,6,85.48
+ORD00937,2023-11-30,Customer_182,South,Office Supplies,Binder,530.56,7,138.04
+ORD00938,2023-12-24,Customer_48,South,Office Supplies,Pen,746.16,6,138.46
+ORD00939,2022-10-24,Customer_189,South,Furniture,Desk,610.83,7,108.17
+ORD00940,2024-08-10,Customer_58,West,Furniture,Desk,332.67,10,63.62
+ORD00941,2022-11-19,Customer_61,South,Furniture,Chair,704.44,1,189.02
+ORD00942,2023-04-09,Customer_14,North,Office Supplies,Pen,654.48,10,157.26
+ORD00943,2022-12-08,Customer_84,South,Office Supplies,Stapler,202.07,1,33.42
+ORD00944,2022-05-13,Customer_46,South,Office Supplies,Stapler,58.87,3,6.57
+ORD00945,2023-09-08,Customer_11,East,Technology,Monitor,740.14,2,220.53
+ORD00946,2022-01-19,Customer_39,North,Technology,Laptop,144.22,9,21.69
+ORD00947,2022-09-21,Customer_114,West,Office Supplies,Stapler,810.07,2,81.82
+ORD00948,2022-08-12,Customer_139,South,Office Supplies,Paper,577.33,5,134.67
+ORD00949,2024-07-29,Customer_127,North,Office Supplies,Pen,635.19,8,61.62
+ORD00950,2024-08-02,Customer_110,North,Technology,Monitor,387.62,2,95.33
+ORD00951,2023-11-08,Customer_151,North,Furniture,Desk,576.52,4,29.58
+ORD00952,2024-09-21,Customer_23,West,Office Supplies,Stapler,772.94,3,45.47
+ORD00953,2024-04-03,Customer_169,West,Furniture,Desk,758.45,2,76.32
+ORD00954,2022-08-18,Customer_33,West,Technology,Monitor,960.17,3,136.33
+ORD00955,2023-11-12,Customer_65,North,Furniture,Chair,360.59,2,31.45
+ORD00956,2022-08-16,Customer_50,West,Furniture,Bookcase,340.32,9,91.6
+ORD00957,2023-07-13,Customer_170,South,Technology,Monitor,996.52,8,141.58
+ORD00958,2022-04-22,Customer_36,South,Technology,Printer,476.18,7,109.77
+ORD00959,2022-12-02,Customer_165,East,Furniture,Chair,891.89,4,176.83
+ORD00960,2023-02-16,Customer_69,North,Office Supplies,Paper,421.95,9,64.62
+ORD00961,2023-10-04,Customer_86,South,Office Supplies,Paper,710.84,6,36.11
+ORD00962,2024-01-04,Customer_86,South,Technology,Laptop,638.61,2,88.69
+ORD00963,2024-02-05,Customer_22,South,Technology,Printer,804.49,8,58.93
+ORD00964,2024-06-14,Customer_9,South,Technology,Phone,608.79,8,103.64
+ORD00965,2022-05-01,Customer_158,North,Office Supplies,Binder,660.21,9,43.71
+ORD00966,2023-06-09,Customer_135,West,Office Supplies,Stapler,600.98,6,114.41
+ORD00967,2023-12-04,Customer_111,West,Technology,Monitor,582.63,10,117.03
+ORD00968,2022-02-15,Customer_62,East,Office Supplies,Pen,692.64,2,174.02
+ORD00969,2023-07-21,Customer_42,West,Technology,Phone,306.33,6,78.5
+ORD00970,2022-10-27,Customer_54,North,Furniture,Bookcase,523.34,1,36.25
+ORD00971,2024-06-24,Customer_183,North,Office Supplies,Binder,105.62,7,14.11
+ORD00972,2022-04-07,Customer_168,East,Furniture,Chair,795.65,2,180.55
+ORD00973,2024-08-07,Customer_97,West,Office Supplies,Pen,799.18,2,143.31
+ORD00974,2022-05-04,Customer_160,South,Technology,Phone,468.19,7,40.67
+ORD00975,2024-05-18,Customer_40,East,Furniture,Bookcase,361.78,8,57.34
+ORD00976,2023-05-04,Customer_55,North,Furniture,Desk,134.17,10,14.11
+ORD00977,2023-01-07,Customer_174,West,Furniture,Chair,618.31,3,144.63
+ORD00978,2022-10-10,Customer_26,West,Furniture,Chair,998.43,9,282.83
+ORD00979,2022-01-09,Customer_196,East,Furniture,Table,660.44,3,102.57
+ORD00980,2024-07-22,Customer_90,North,Office Supplies,Stapler,654.37,9,161.25
+ORD00981,2022-02-17,Customer_14,West,Technology,Printer,162.42,9,24.77
+ORD00982,2023-12-17,Customer_51,West,Office Supplies,Paper,847.81,2,123.74
+ORD00983,2024-05-27,Customer_105,North,Office Supplies,Binder,593.28,6,116.84
+ORD00984,2024-01-10,Customer_46,South,Technology,Laptop,225.25,3,31.66
+ORD00985,2022-01-19,Customer_68,West,Furniture,Desk,367.79,10,20.8
+ORD00986,2024-02-03,Customer_121,South,Office Supplies,Binder,72.98,7,18.82
+ORD00987,2024-06-24,Customer_115,West,Office Supplies,Binder,309.42,6,55.55
+ORD00988,2023-01-18,Customer_139,North,Office Supplies,Binder,333.79,4,95.19
+ORD00989,2024-05-14,Customer_33,West,Office Supplies,Stapler,296.33,5,46.65
+ORD00990,2022-07-31,Customer_19,North,Technology,Monitor,879.09,3,228.99
+ORD00991,2023-09-26,Customer_168,East,Technology,Monitor,226.8,2,56.85
+ORD00992,2023-11-04,Customer_99,South,Technology,Phone,485.28,8,82.86
+ORD00993,2023-08-13,Customer_147,West,Technology,Phone,176.81,8,12.4
+ORD00994,2022-12-08,Customer_50,North,Furniture,Bookcase,741.54,9,129.11
+ORD00995,2023-07-03,Customer_63,South,Furniture,Table,465.01,4,108.06
+ORD00996,2023-10-01,Customer_16,North,Office Supplies,Pen,777.24,8,69.74
+ORD00997,2022-11-09,Customer_89,East,Office Supplies,Paper,629.71,4,52.79
+ORD00998,2024-04-20,Customer_32,East,Furniture,Desk,763.81,7,163.64
+ORD00999,2024-04-30,Customer_161,South,Office Supplies,Binder,958.78,1,64.47
+ORD01000,2022-10-15,Customer_42,South,Technology,Monitor,104.2,7,12.56
