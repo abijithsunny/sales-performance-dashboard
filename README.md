@@ -50,7 +50,7 @@ The dashboard helps stakeholders understand sales trends, top-performing product
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboard.png)
+<img width="1088" height="615" alt="dashboard" src="https://github.com/user-attachments/assets/c17d7852-4727-4f79-999b-239c654e4866" />
 
 ---
 
@@ -76,4 +76,5 @@ The dashboard helps stakeholders understand sales trends, top-performing product
 ---
 
 ## 📬 Contact
-Your Name – your@email.com
+Abijith Sunny
+abhijithsunny175@gmail.com
